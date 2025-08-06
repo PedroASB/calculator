@@ -16,14 +16,14 @@ This was the last project of the foundations course. Here, I applied everything 
 ## Preview
 
 <div align="center">
-    <img width="300px" src="./screenshots/screenshot-4.png" alt="Screenshot">
-    <img width="300px" src="./screenshots/screenshot-5.png" alt="Screenshot">
-    <img width="300px" src="./screenshots/screenshot-6.png" alt="Screenshot">
+    <img width="225px" src="./screenshots/screenshot-4.png" alt="Screenshot">
+    <img width="225px" src="./screenshots/screenshot-5.png" alt="Screenshot">
+    <img width="225px" src="./screenshots/screenshot-6.png" alt="Screenshot">
 </div>
 
 ## Live Demo
 
-**[Click here](https://pedroasb.github.io/odin-foundations/calculator/)** to try out this project on browser.
+**[Click here](https://pedroasb.github.io/calculator/)** to try out this project on browser.
 
 ## Usage
 
@@ -78,6 +78,12 @@ This was the last project of the foundations course. Here, I applied everything 
 ![Screenshot](./screenshots/screenshot-1.png)
 ![Screenshot](./screenshots/screenshot-2.png)
 ![Screenshot](./screenshots/screenshot-3.png)
+
+## About the Project
+
+This project is part of the curriculum of [The Odin Project](https://www.theodinproject.com/). You can check out other projects that I've built in my [fullstack-journey](https://github.com/PedroASB/fullstack-journey) repository.
+
+**Note:** this project was originally part of a multi-project repository and was later split into its own repository. A git history filtering tool was used to preserve the original commit history.
 
 ## Attributions
 
